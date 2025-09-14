@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "Alan Wake",
+    "ExePath": "C:\\Games\\Alan Wake\\alanwake.exe",
+    "BgPath": "alan-wake-remastered-remastered-alan-wake-remedy-entertainme.jpg",
+    "PosterPath": "Alan_Wake_Game_Cover.jpg",
+    "TimePlayed": 0,
+    "LastPlayed": "8/30/2025 6:23:29 PM",
+    "Completion": ""
+  },
+  {
+    "Name": "Assassins Creed Brotherhood",
+    "ExePath": "C:\\Games\\Assassins.Creed.Brotherhood.v1.03\\ACBSP.exe",
+    "BgPath": "wallpaper_assassins_creed_brotherhood_01_1920x1080.jpg",
+    "PosterPath": "C4_ACB_HRPackshot_Final.jpg",
+    "TimePlayed": 7,
+    "LastPlayed": "8/30/2025 6:24:24 PM",
+    "Completion": ""
+  },
+  {
+    "Name": "Blasphemous",
+    "ExePath": "C:\\Games\\Blasphemous v4.0.6.7\\Blasphemous.exe",
+    "BgPath": "thumb-1920-1074972.jpg",
+    "PosterPath": "b22d69c7-f7f0-4644-af15-1d9c07154ea0.jpg",
+    "TimePlayed": 0,
+    "LastPlayed": "9/9/2025 11:33:59 PM",
+    "Completion": ""
+  },
+  {
+    "Name": "Celeste",
+    "ExePath": "C:\\Games\\Celeste v1.4.0.0\\Celeste.exe",
+    "BgPath": "Celeste.png",
+    "PosterPath": "Celeste.png",
+    "TimePlayed": 1022,
+    "LastPlayed": "9/10/2025 1:37:52 AM",
+    "Completion": "Finished"
+  },
+  {
+    "Name": "Cuphead",
+    "ExePath": "C:\\Games\\Cuphead.v1.3.4.Incl.ALL.DLC\\Cuphead.exe",
+    "BgPath": "881478.png",
+    "PosterPath": "Cuphead_(artwork).png",
+    "TimePlayed": 0,
+    "LastPlayed": "9/9/2025 11:33:11 PM",
+    "Completion": ""
+  },
+  {
+    "Name": "Dark Souls",
+    "ExePath": "C:\\Games\\Dark Souls Remastered\\DarkSoulsRemastered.exe",
+    "BgPath": "10469.jpg",
+    "PosterPath": "7df8717b2c1d8341ba684519fafab05f.jpg",
+    "TimePlayed": 0,
+    "LastPlayed": "9/9/2025 11:35:28 PM",
+    "Completion": ""
+  },
+  {
+    "Name": "Dead Space 3",
+    "ExePath": "C:\\Games\\Dead Space 3\\deadspace3.exe",
+    "BgPath": "thumb-1920-371382.jpg",
+    "PosterPath": "Dead_Space_3_PC_game_cover.jpg",
+    "TimePlayed": 0,
+    "LastPlayed": "",
+    "Completion": ""
+  },
+  {
+    "Name": "Devil May Cry",
+    "ExePath": "C:\\Games\\DMC Devil May Cry\\Binaries\\Win32\\DMC-DevilMayCry.exe",
+    "BgPath": "devil-may-cry-dante-and-vergil-fan-art-0l79agqz9bbl6oba.jpg",
+    "PosterPath": "DmC_box_art.png",
+    "TimePlayed": 1050,
+    "LastPlayed": "9/3/2025 7:07:43 PM",
+    "Completion": "Finished"
+  },
+  {
+    "Name": "Far Cry 3",
+    "ExePath": "C:\\Games\\Far Cry 3\\bin\\farcry3.exe",
+    "BgPath": "nijjyjpjf67d1.jpeg",
+    "PosterPath": "Far_Cry_3_PAL_box_art.jpg",
+    "TimePlayed": 180,
+    "LastPlayed": "",
+    "Completion": ""
+  },
+  {
+    "Name": "FIFA 19",
+    "ExePath": "C:\\Games\\FIFA 19\\FIFA19.exe",
+    "BgPath": "dZqRfyfhNcWqcHfELa0UqauYM9u-4rYu3MvLhI-kvYU.jpg",
+    "PosterPath": "FIFA_19_cover.jpg",
+    "TimePlayed": 90,
+    "LastPlayed": "",
+    "Completion": ""
+  },
+  {
+    "Name": "Hollow Knight",
+    "ExePath": "C:\\Games\\Hollow Knight\\Hollow Knight.exe",
+    "BgPath": "HollowKnight.jpg",
+    "PosterPath": "Hollow_Knight_first_cover_art.png",
+    "TimePlayed": 7200,
+    "LastPlayed": "9/9/2025 11:36:19 PM",
+    "Completion": "Finished"
+  },
+  {
+    "Name": "Silksong",
+    "ExePath": "C:\\Games\\Hollow Knight - Silksong\\Silksong.exe",
+    "BgPath": "wp4247114-hollow-knight-silksong-wallpapers.png",
+    "PosterPath": "Silksong_cover.jpg",
+    "TimePlayed": 7200,
+    "LastPlayed": "",
+    "Completion": "UnFinished"
+  },
+  {
+    "Name": "Hyper Light Drifter",
+    "ExePath": "C:\\Games\\Hyper Light Drifter v7212017\\HyperLightDrifter.exe",
+    "BgPath": "746580-3840x2160-desktop-4k-hyper-light-drifter-background.jpg",
+    "PosterPath": "STM_2024_Cap_Vertical.png",
+    "TimePlayed": 0,
+    "LastPlayed": "",
+    "Completion": ""
+  },
+  {
+    "Name": "Nine Sols",
+    "ExePath": "C:\\Games\\Nine.Sols.v2025.01.20\\NineSols.exe",
+    "BgPath": "wcwkfxma05ae1.png",
+    "PosterPath": "I0_nine-sols-promotional-art.jpg",
+    "TimePlayed": 2,
+    "LastPlayed": "9/10/2025 2:42:24 AM",
+    "Completion": ""
+  },
+  {
+    "Name": "Ori & The Blind Forest",
+    "ExePath": "C:\\Games\\Ori and the Blind Forest\\oriDE.exe",
+    "BgPath": "h5dm792mnzcb1.png",
+    "PosterPath": "Ori_and_the_Blind_Forest_Logo.jpg",
+    "TimePlayed": 0,
+    "LastPlayed": "9/10/2025 1:23:19 AM",
+    "Completion": ""
+  },
+  {
+    "Name": "Outlast",
+    "ExePath": "C:\\Games\\Outlast\\OutlastLauncher.exe",
+    "BgPath": "outlast-2-and-trials-were-good-but-this-is-the-only-place-v0-yuyxdwrh92rc1.jpg",
+    "PosterPath": "Outlast_Cover_Art.jpg",
+    "TimePlayed": 0,
+    "LastPlayed": "",
+    "Completion": ""
+  },
+  {
+    "Name": "Red Dead Redemption",
+    "ExePath": "C:\\Games\\Red.Dead.Redemption.Modded.v1.0.40.57107\\RDR.exe",
+    "BgPath": "33a3ef5086a045172663c0a3f93a0b428ca52616.jpg",
+    "PosterPath": "Red_Dead_Redemption.jpg",
+    "TimePlayed": 0,
+    "LastPlayed": "",
+    "Completion": ""
+  },
+  {
+    "Name": "Tomb Raider",
+    "ExePath": "C:\\Games\\Tomb Raider - Definitive Edition\\tombraider.exe",
+    "BgPath": "TombRaider.jpg",
+    "PosterPath": "TombRaider.jpg",
+    "TimePlayed": 840,
+    "LastPlayed": "",
+    "Completion": "Finished"
+  },
+  {
+    "Name": "Undertale",
+    "ExePath": "C:\\Games\\Undertale\\UNDERTALE.exe",
+    "BgPath": "thumb-1920-798722.png",
+    "PosterPath": "10965847.png",
+    "TimePlayed": 0,
+    "LastPlayed": "",
+    "Completion": ""
+  },
+  {
+    "Name": "Lost In Play",
+    "ExePath": "C:\\Games\\LostInPlay\\LostInPlay.exe",
+    "BgPath": "1246764.jpg",
+    "PosterPath": "f71a98eed145953537a550f3f4986935.jpg",
+    "TimePlayed": 1,
+    "LastPlayed": "9/11/2025 7:37:50 PM",
+    "Completion": ""
+  }
+]
